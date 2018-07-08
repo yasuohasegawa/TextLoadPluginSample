@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  TextFileLoader.cpp
+     ライブラリ C:\Users\yasuo\Desktop\WORKS_UNITY\misc\dlltest2\TextFileLoader\x64\Release\TextFileLoader.lib とオブジェクト C:\Users\yasuo\Desktop\WORKS_UNITY\misc\dlltest2\TextFileLoader\x64\Release\TextFileLoader.exp を作成中
+  コード生成しています。
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  TextFileLoader.vcxproj -> C:\Users\yasuo\Desktop\WORKS_UNITY\misc\dlltest2\TextFileLoader\x64\Release\TextFileLoader.dll
