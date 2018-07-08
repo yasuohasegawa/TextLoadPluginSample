@@ -1,0 +1,2 @@
+# TextLoadPluginSample
+For windows only.
